@@ -1,0 +1,7 @@
+- ShopmeProject: new Maven project(pom)
+- ShopmeCommon: new Spring start project (jar) : xoa main class, test
+- shopmeWebmparent: (pom)  new Maven project???
+- shopmeBackend: (rar) new Spring start project 
+- ShopmeFontEnd: (rar) new Spring start project 
+
+hetbai 33
